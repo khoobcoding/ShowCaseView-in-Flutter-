@@ -1,3 +1,9 @@
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  showcaseview: ^2.0.3 // Add this package in your pubspec.yaml file
+
 import 'package:flutter/material.dart';
 import 'package:showcaseview/showcaseview.dart';
 
